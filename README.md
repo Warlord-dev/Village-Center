@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+
+
+- 🌱 I’m currently learning Crypto Technology.
+- 👯 I’m looking to collaborate on Defi/NFT projects.
+- 💬 Ask me about Solidity, Rust, Golang, Typescript, NodeJs.
+- 😄 Pronouns: He/Him
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=solidity-wang&theme=dracula&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solidity-wang&theme=dracula">
