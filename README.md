@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Crypto Technology.
-- 👯 I’m looking to collaborate on Defi/NFT projects.
+- 🌱 I’m currently working on Crypto Defi/NFT projects.
 - 💬 Ask me about Solidity, Rust, Golang, Typescript, NodeJs.
 - 😄 Pronouns: He/Him
 
