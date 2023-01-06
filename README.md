@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently working on Crypto Defi/NFT projects.
-- 💬 Ask me about Solidity, Rust, Golang, Typescript, NodeJs.
+- 💬 Ask me about Ethereum, Solana, Near, Algorand, Solidity, Rust, Golang, Typescript, NodeJs.
 - 😄 Pronouns: He/Him
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=solidity-wang&theme=dracula&show_icons=true">
