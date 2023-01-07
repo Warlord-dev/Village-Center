@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently working on Crypto Defi/NFT projects.
 - 💬 Ask me about Ethereum, Solana, Near, Algorand, Solidity, Rust, Golang, Typescript, NodeJs.
 - 😄 Pronouns: He/Him
-
+<div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=solidity-wang&theme=dracula&show_icons=true">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solidity-wang&theme=dracula">
+</div>
+
+<div>
+####       ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a) ![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a) ![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a) ![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a) ![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a) ![](https://img.shields.io/badge/Blockchain-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Smart%20Contracts-%7C-blue) ![](https://img.shields.io/badge/Cryptocurrency-%7C-ff69b4)![](https://img.shields.io/badge/Web3.js-%7C-yellowgreen)   
+
+</div>
