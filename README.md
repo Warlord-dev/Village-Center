@@ -36,6 +36,7 @@ Here are some ideas to get you started:
   <hr>
 </p>
 
+<!--
 <p align="center">
   <a href="https://github.com/solidity-wang?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/solidity-wang"/></a>
@@ -44,4 +45,4 @@ Here are some ideas to get you started:
   <a href="https://github.com/solidity-wang">
     <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=solidity-wang&style=for-the-badge&logo=GitHub"/></a>
 </p>
-<hr>
+<hr> ->
