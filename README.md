@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=80&lines=Welcome+here+!;I+AM+A+BlockChain+DEVELOPER.;)](https://git.io/typing-svg)
+<br/>
+<h3 align="center">Blockchain developer || Senior Full-stack devloper</h3>
 
 - 🌱 I’m currently working on Crypto Defi/NFT projects.
 - 💬 Ask me about Ethereum, Solana, Near, Algorand, Solidity, Rust, Golang, Typescript, NodeJs.
